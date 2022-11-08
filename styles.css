@@ -1,0 +1,54 @@
+
+#tickets {
+  color: #2ba847;
+}
+#ba1{filter: brightness(50%);}
+.conteiner{
+  padding-right: 5vw;
+}
+
+.btn-success{background: #2ba847;}
+
+#floatingTextarea2{height: 100px}
+
+#honolulu {background-color: rgb(61, 61, 61);}
+
+form{margin-bottom: 2rem;}
+
+#descuento{
+ margin: 15px;
+}
+
+.botones{
+display: flex;
+flex-direction: row;
+padding-left: 400px;
+}
+
+
+
+#total{
+margin: 10px;
+
+  background-color:rgb(112, 162, 209);
+}
+#container text-center{
+  padding-left: 100px;
+  padding-left: 500px;
+
+}
+#liveAlertPlaceholder {
+  background-color: rgb(108, 200, 243);
+}
+
+#borrar{
+  margin-bottom: 10px;
+  padding-left: 150px;
+  
+}
+#resumen {
+  margin-bottom: 10px;
+  padding-right: 150px;
+}
+footer {
+  background-color:#1e4c66;}
